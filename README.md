@@ -1,8 +1,8 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/mstfa13/apex-labs)
-  ![GitHub stars](https://img.shields.io/github/stars/mstfa13/apex-labs?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/mstfa13/apex-labs?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/mstfa13/Agency)
+  ![GitHub stars](https://img.shields.io/github/stars/mstfa13/Agency?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/mstfa13/Agency?style=social)
 
   <br />
   <br />
@@ -34,13 +34,13 @@ To run **Apex Labs** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/mstfa13/apex-labs.git
+sudo git clone https://github.com/mstfa13/Agency.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/mstfa13/apex-labs.git
+git clone https://github.com/mstfa13/Agency.git
 ```
 
 ### Contact
